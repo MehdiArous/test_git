@@ -3,3 +3,8 @@ print(6)
 
 print(4)
 print(5)
+
+
+
+
+print(10)
