@@ -11,5 +11,20 @@ print ("ousaama")
 print("mrous")
 
 print("test file1")
-print("test"
-      )
+print("test")
+
+print ("collab")
+
+print ("hello guys !")
+
+
+
+print ("hello guys")
+
+
+
+print ("hello guys guys")
+
+
+
+print ("hello guys guys/.")
