@@ -14,3 +14,6 @@ print("file2.2")
 # bolbol
 
 # main conflict accept me
+# conflict 1 
+
+# conflict 2
