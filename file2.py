@@ -19,3 +19,8 @@ print("file2.2")
 # conflict 2
 
 # conflict in main
+# local conflict 1 
+
+# local conflict 2 
+
+# local conflict 3
